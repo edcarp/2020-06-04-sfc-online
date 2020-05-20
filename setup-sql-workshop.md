@@ -20,6 +20,9 @@ You can download all of the data used in this workshop by clicking
 Clicking the download link will automatically download all of the files to your default download directory as a single compressed
 (`.zip`) file. To expand this file, double click the folder icon in your file navigator application (for Macs, this is the Finder
 application).
+The data for this workshop are in the [SAFI Survey Results Project](https://figshare.com/articles/SAFI_Survey_Results/6262019) available on FigShare, with a CC-BY license available for reuse.
+
+The [SAFI Project](http://www.safi-research.org/) is a research project looking at farming and irrigation methods used by farmers in Tanzania and Mozambique. This dataset is composed of survey data relating to households and agriculture in Tanzania and Mozambique. The survey form was created using the ODK (Open Data Kit) software via an Excel spreadsheet. This is used to create a form which can be downloaded and displayed (and completed) on an Android smartphone. The results are then sent back to a central server. The server can be used to produce the collected data in both JSON and CSV formats. We will use a sample of the collected data in CSV format throughout this workshop.
 
 For a full description of the data used in this workshop see the [data page](https://datacarpentry.org/socialsci-workshop/data/).
 
