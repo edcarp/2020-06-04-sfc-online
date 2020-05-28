@@ -63,7 +63,7 @@ is from an unidentified developer." Click "Open Anyway" and "Yes". OpenRefine sh
 
 * OpenRefine does not support Internet Explorer or Edge. Please use Firefox, Chrome or Safari instead.
 
-* For more detailed info on how to install OpenRefine see <a href = "https://edcarp.github.io/2020-06-04-sfc-online/setup-sql-workshop">here</a>.
+* For more detailed info on how to install OpenRefine see <a href = "https://edcarp.github.io/2020-06-04-sfc-online/setup-Openrefine">here</a>.
 
 
 
